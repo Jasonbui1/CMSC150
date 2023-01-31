@@ -1,2 +1,3 @@
 # CMSC150
-Repo for CMSC
+Hello World!
+This is Repo for CMSC150
